@@ -1,6 +1,6 @@
 # Vont SEO Tools: Releases
 
-Downloads and the update feed for **Vont SEO Tools**, VONT's native macOS SEO crawler for site audits.
+Downloads and the update feed for **Vont SEO Tools**, EthosVont's native macOS SEO crawler for site audits.
 
 **[⬇ Download the latest version](https://github.com/VONTWEB/VONT-SEO-Tool-Releases-/releases/latest)**
 
